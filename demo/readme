@@ -11,6 +11,7 @@ sudo apt install ruby
 gem install fpm --user-install
 
 参考
+https://www.pythonguis.com/tutorials/packaging-pyqt5-applications-linux-pyinstaller/
 https://blog.csdn.net/SteveForever/article/details/124896906
 https://blog.csdn.net/qq_27061049/article/details/126649039
 https://juejin.cn/post/7029284097939734535
