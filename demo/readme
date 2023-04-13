@@ -1,0 +1,16 @@
+1.liunx 安装
+sudo apt-get install python3-pyqt5
+sudo apt-get install qt5-default qttools5-dev-tools
+
+pip3 install pyinstaller
+
+/home/xxx/.local/bin/pyinstaller --name myApp a.py
+/home/xxx/.local/bin/pyinstaller myApp.spec
+
+sudo apt install ruby
+gem install fpm --user-install
+
+参考
+https://blog.csdn.net/SteveForever/article/details/124896906
+https://blog.csdn.net/qq_27061049/article/details/126649039
+https://juejin.cn/post/7029284097939734535

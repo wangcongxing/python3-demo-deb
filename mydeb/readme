@@ -1,0 +1,1 @@
+sudo dpkg-deb -b /home/pingan/code/mydeb mydeb.deb

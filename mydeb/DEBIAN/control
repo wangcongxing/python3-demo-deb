@@ -1,0 +1,9 @@
+Package: typora
+Version: 13.6.1
+Section: utils
+Priority: optional
+Architecture: amd64
+Installed-Size: 218600
+Maintainer: swsk33<example@163.com>
+Provides: typora
+Description: 自己打包的Typora安装包。

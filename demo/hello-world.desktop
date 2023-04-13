@@ -1,0 +1,10 @@
+[Desktop Entry] 
+Name=mydeb     
+Comment=debcomment
+Exec=/data/home/pingan/code/demo/package/opt/myApp/myApp                        
+Icon=/data/home/pingan/code/demo/package/usr/share/icons/hicolor/scalable/apps/hello-world.svg
+erminal=false
+Type=Application                        
+X-Ubuntu-Touch=true                  
+Categories=Developmen           
+Name[en]=desktop 
